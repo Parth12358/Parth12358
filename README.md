@@ -1,7 +1,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Builder;Design+Enjoyer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Builder;Design+Enjoyer;Open+Source+Enthusiast" alt="Typing SVG" />
 
 
 ---
