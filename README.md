@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Welcome to My Digital Universe
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Creative+Developer;3D+Experience+Builder;Full+Stack+Engineer" alt="Typing SVG" />
 
@@ -10,7 +9,7 @@
 
 <div align="center">
 
-### 🚀 Building Interactive 3D Experiences & Modern Web Applications
+
 
 </div>
 
